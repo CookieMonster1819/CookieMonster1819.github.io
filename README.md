@@ -1,5 +1,6 @@
 # <center>Taylor Doyka</center>
-<center>![profile](https://github.com/user-attachments/assets/ecbe3c9c-4fa0-4a00-a987-7dae11a540e4)</center>
+<img src="profile.jpg" height=200 width=200>
+</center>
 
 ## Computer Science ePortfolio
 
