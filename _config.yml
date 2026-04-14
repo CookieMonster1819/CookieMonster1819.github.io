@@ -5,10 +5,9 @@ description: Feel welcome to bookmark this page, it is my ePortfolio completed w
 baseurl: CookieMonster1819.github.io
 url: https://cookiemonster1819.github.io/
 # Theme settings
-theme: jekyll-theme-minimal # Choose a supported theme like 'minima' or 'cayman'
-
-# Build settings
-markdown: kramdown
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+title: Minimal theme
+logo: /assets/img/logo.png
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
