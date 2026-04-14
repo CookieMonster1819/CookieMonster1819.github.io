@@ -2,7 +2,7 @@
 <center><img src="profile.jpg" height=400 width=300></center>
 
 
-## Computer Science ePortfolio
+## <center>Computer Science ePortfolio</center>
 
 ### <center>CS-499 Computer Science Capstone | SNHU</center>
 My name is Taylor Doyka (She/Her). I am a President's List alumni at Southern New Hampshire University, majored in Computer Science with concentration in Cybersecurity! My full introduction via my professional self-assessment will be listed further into this page. Also, there will also be couple artifacts that I had developed from my previous years at SNHU (Southern New Hampshire University) and will showcase them in more complex and professionally functional applications which I advanced throughout my Computer Science Capstone course. 
