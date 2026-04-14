@@ -1,5 +1,5 @@
 # <center>Taylor Doyka</center>
-<img src="profile.jpg" height=200 width=200>
+<img src="profile.jpg" height=400 width=200>
 
 
 ## Computer Science ePortfolio
