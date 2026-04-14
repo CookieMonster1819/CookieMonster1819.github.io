@@ -43,12 +43,22 @@ Artifact zip compressed folder with its narrative
 * [Milestone Two CS 499 Taylor Doyka.docx](https://github.com/user-attachments/files/26696967/Milestone.Two.CS.499.Taylor.Doyka.docx)
 * [Module Three ZIP.zip](https://github.com/user-attachments/files/26696886/Module.Three.ZIP.zip)
 
+Before Enhancement: <img width="1011" height="1011" alt="image" src="https://github.com/user-attachments/assets/f220f91d-92ff-46ab-ab57-38eb44321e04" />
+After Enhancement: <img width="1055" height="978" alt="Screenshot (175)" src="https://github.com/user-attachments/assets/2d8b60ad-6b95-46f3-a4d5-1f4220044a1f" />
+
 ### Project 2: Algorithms and Data Structures
 Artifact zip compressed folder with its narrative
 * [Module Four ZIP.zip](https://github.com/user-attachments/files/26696987/Module.Four.ZIP.zip)
 * [CS 499 Milestone 3 Taylor Doyka.docx](https://github.com/user-attachments/files/26696981/CS.499.Milestone.3.Taylor.Doyka.docx)
 
+Before Enhancement: <img width="975" height="979" alt="image" src="https://github.com/user-attachments/assets/6085b584-f481-4c97-a178-e1e086de992a" />
+After Enhancement: <img width="1059" height="978" alt="Screenshot (177)" src="https://github.com/user-attachments/assets/6a210921-b66b-450d-bc0c-926854ceec09" />
+
 ### Project 3: Databases 
 Artifact zip compressed folder with its narrative
 * [CS 499 Milestone 4 Taylor Doyka.docx](https://github.com/user-attachments/files/26696993/CS.499.Milestone.4.Taylor.Doyka.docx)
 * [Module Five ZIP.zip](https://github.com/user-attachments/files/26696990/Module.Five.ZIP.zip)
+
+Before Enhancement: <img width="975" height="963" alt="image" src="https://github.com/user-attachments/assets/da0c8ab0-330b-4635-b01d-2736bde4dc3e" />
+After Enhancement: <img width="1066" height="976" alt="Screenshot (178)" src="https://github.com/user-attachments/assets/fd4d76d5-a2db-4901-a3eb-0184a472811f" />
+
