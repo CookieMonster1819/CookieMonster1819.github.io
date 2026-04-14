@@ -1,4 +1,3 @@
-# <center>Taylor Doyka</center>
 <center><img src="profile.jpg" height=400 width=300></center>
 
 
