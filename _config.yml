@@ -1,4 +1,14 @@
-theme: jekyll-theme-cayman
-url: CookieMonster1819.github.io
-title: Welcome to Taylor Doyka's homepage !
-description: Feel welcome to bookmark this page, for it is my ePotfolio completed within my CS-499 Computer Science Capstone !
+
+# Site settings
+title: "Welcome to Taylor Doyka's ePortfolio"
+description: Feel welcome to bookmark this page, it is my ePortfolio completed within CS-499 Camputer Science Capstone! 
+baseurl: CookieMonster1819.github.io
+url: https://cookiemonster1819.github.io/
+# Theme settings
+theme: jekyll-theme-minimal # Choose a supported theme like 'minima' or 'cayman'
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
