@@ -4,7 +4,3 @@ title: "Welcome to Taylor Doyka's ePortfolio"
 description: Feel welcome to bookmark this page, it is my ePortfolio completed within CS-499 Camputer Science Capstone! 
 baseurl: CookieMonster1819.github.io
 url: https://cookiemonster1819.github.io/
-# Theme settings
-title: Minimal theme
-description: Minimal is a theme for GitHub Pages.
-theme: jekyll-theme-minimal
